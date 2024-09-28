@@ -1,0 +1,19 @@
+{
+  "name": "General Osoroshi",
+  "description": "General Osoroshi is one of Azula's generals and controls a hidden fortress located near the center of the Fire Nation. She has commander over an elite siege force. Her fortress is mainly used to produce the weapons for her forces and is only moderately defended. But her maxim is offense before defense. Merciless and unrelenting, her siege forces will soon break even the toughest of defenses down...",
+  "author": "Kimberly Azula",
+  "link": "",
+  "version": "1.0.0",
+  "defaultLang": "en",
+  "supportedLang": ["en", "de"],
+  "switched": {
+    "binks": true,
+    "speech": true,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": true,
+    "portrait": true
+  }
+}

@@ -1,0 +1,10 @@
+name: Fiery-Ladies-AI
+display-name: Fiery Ladies AI
+type: plugin
+author: KimberlyAzula
+version: 0.375.0
+dependencies:
+  aiSwapper: ">= 1.0.0"
+  ucp2-legacy-defaults: ^2.15.1
+meta:
+  version: 1.0.0

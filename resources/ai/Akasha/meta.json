@@ -1,0 +1,19 @@
+{
+  "name": "Akasha, the Queen of Pain",
+  "description": "Akasha the \"Queen of Pain\" is a demoness and Queen of an unknown land who has forged an unsteady alliance with the Firenation. Although her army mostly consists out of war prisoners and her torture victims, never underestimate her strength nor her enjoyment for warfare - and all the suffering of course. She doesn't care much for her people or economical matters as she spents her time finding ever-new techniques to cause pain to her playthings. Loves knife-play.",
+  "author": "Kimberly Azula",
+  "link": "",
+  "version": "1.0.0",
+  "defaultLang": "en",
+  "supportedLang": ["en", "de"],
+  "switched": {
+    "binks": true,
+    "speech": true,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": true,
+    "portrait": true
+  }
+}

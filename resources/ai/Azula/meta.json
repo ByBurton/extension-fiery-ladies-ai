@@ -1,0 +1,19 @@
+{
+  "name": "Azula",
+  "description": "Azula is a cunning strategist, leading the superior army of the Firenation. She keeps her fortress well defended and if she decides to attack she will not be satisfied until even the last building is set aflame.",
+  "author": "Kimberly Azula",
+  "link": "",
+  "version": "1.0.0",
+  "defaultLang": "en",
+  "supportedLang": ["en", "de"],
+  "switched": {
+    "binks": true,
+    "speech": true,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": true,
+    "portrait": true
+  }
+}

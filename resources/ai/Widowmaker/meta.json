@@ -1,0 +1,19 @@
+{
+  "name": "Widowmaker",
+  "description": "Widowmaker has a malevolent disposition and is very detached from her sentiment. She shows no mercy for her targets no matter who they are and has a love for killing, claiming that it makes her feel alive. She also seems to possess vanity when it comes to her skills and looks.",
+  "author": "Kimberly Azula",
+  "link": "",
+  "version": "1.0.0",
+  "defaultLang": "en",
+  "supportedLang": ["en", "de"],
+  "switched": {
+    "binks": true,
+    "speech": true,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": true,
+    "portrait": true
+  }
+}
