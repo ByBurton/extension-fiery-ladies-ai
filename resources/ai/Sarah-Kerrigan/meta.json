@@ -1,0 +1,19 @@
+{
+  "name": "Sarah Kerrigan, the Queen of Blades",
+  "description": "On the battlefield, Sarah Kerrigan, the Queen of Blades, is a brilliant and ruthless strategist who commands the Zerg Swarm with precision and adaptability. She excels at overwhelming her enemies through sheer numbers and relentless aggression, while carefully exploiting tactical opportunities to ensure victory. Kerrigan thrives on decisive action, outmaneuvering opponents with calculated strikes and relentless pressure. Her leadership emphasizes efficiency and dominance, ensuring the Zerg's supremacy through methodical and unyielding tactics.",
+  "author": "Kimberly Azula",
+  "link": "",
+  "version": "1.0.0",
+  "defaultLang": "en",
+  "supportedLang": ["en", "de"],
+  "switched": {
+    "binks": true,
+    "speech": true,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": true,
+    "portrait": true
+  }
+}

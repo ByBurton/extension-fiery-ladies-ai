@@ -21,7 +21,9 @@ Luna is cruel, merciless and enjoys gore. She was a former leader of bandits who
 
 ### Widowmaker
 Widowmaker is an assassin from the future. Through a rift in space and time (or something, Idk) she was brought to this time and place in the desert. Without her sniper "Widow's Kiss" she had to learn to "snipe" with the weapons of this timeline: the bow and crossbow. She soon became a master and taught others to always hit their shot. The men she taught gathered behind her. Those who couldn't learn the art were instead instructed in the way of the Spider - to sneak and assassinate the enemy with daggers and swords. And thus over time she became a free leader - an outlaw - in the desert. Without allegiance to anyone she and her followers attacked any city or town and gained in power.
-  
+
+### Sarah Kerrigan
+Sarah Kerrigan has once been Human in the universe of StarCraft II. Then she was betrayed and left to be killed by the Zerg. But they instead made her their new Queen. Now she seeks to lead the Zerg Swarm from world to world to conquer them. Her Zerglings (here: Spearmen) are unending and her ultralisks  (here: Swordsman) to be feared. Her hydralisks too are many (here: Archers). Don't stand in the Queen's way...
   
   
   

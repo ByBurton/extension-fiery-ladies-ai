@@ -42,15 +42,15 @@
         "European crossbowman": 150,
         "Arabian firethrower": 150
       },
-      "arrowDamage": 1250,
-      "xbowDamage": 5000,
-      "stoneDamage": 250,
+      "arrowDamage": 1125,
+      "xbowDamage": 4000,
+      "stoneDamage": 450,
       "ballistaBoltDamage": 5000,
       "health": 20000,
       "goldCost": 25,
       "wallDamage": 15,
       "buildingDamage": 100,
-      "fortificationDamagePenalty": -85,
+      "fortificationDamagePenalty": -80,
       "catapultRockDamage": 0,
       "jesterUnfriendly": true,
       "isBlessable": false,
@@ -132,7 +132,7 @@
     "Arabian horse archer": {
       "goldCost": 100,
       "health": 25000,
-      "arrowDamage": 2500,
+      "arrowDamage": 5000,
       "xbowDamage": 12500,
       "stoneDamage": 5000,
       "baseMeleeDamage": 25,
@@ -158,8 +158,8 @@
         "Ladderman": 75
       },
       "wallDamage": 10,
-      "buildingDamage": 15,
-      "fortificationDamagePenalty": -5
+      "buildingDamage": 20,
+      "fortificationDamagePenalty": -10
     },
     "European archer": {
       "goldCost": 15,
@@ -167,6 +167,7 @@
       "arrowDamage": 2500,
       "xbowDamage": 11500,
       "stoneDamage": 2500,
+      "ballistaBoltDamage": 12500,
       "baseMeleeDamage": 20,
       "meleeDamageVs": {
         "Trebuchet": 20
@@ -174,7 +175,7 @@
     },
     "European maceman": {
       "xbowDamage": 2500,
-      "arrowDamage": 3750,
+      "arrowDamage": 2500,
       "stoneDamage": 2500,
       "goldCost": 15,
       "baseMeleeDamage": 100,
@@ -197,7 +198,8 @@
       "health": 7500,
       "arrowDamage": 2500,
       "xbowDamage": 7500,
-      "stoneDamage": 2500
+      "stoneDamage": 2500,
+      "ballistaBoltDamage": 7500
     },
     "European swordsman": {
       "health": 25000,
@@ -494,6 +496,9 @@
       "cost": [30, 30, 0, 0, 300],
       "health": 2500,
       "housing": 1
+    },
+    "Tunnel": {
+      "health": 100
     },
     "Mercenary post": {
       "cost": [10, 0, 0, 0, 0],
