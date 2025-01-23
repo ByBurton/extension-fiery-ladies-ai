@@ -651,8 +651,8 @@
     },
     "Sword": {
       "baseDelivery": 1,
-      "buy": 500,
-      "sell": 375
+      "buy": 400,
+      "sell": 250
     },
     "Pike": {
       "baseDelivery": 2,
