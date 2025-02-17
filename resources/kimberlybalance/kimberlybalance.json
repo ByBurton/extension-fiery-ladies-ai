@@ -47,7 +47,7 @@
       "stoneDamage": 450,
       "ballistaBoltDamage": 5000,
       "health": 20000,
-      "goldCost": 25,
+      "goldCost": 50,
       "wallDamage": 15,
       "buildingDamage": 100,
       "fortificationDamagePenalty": -80,
@@ -80,7 +80,7 @@
       "xbowDamage": 1250,
       "stoneDamage": 125,
       "ballistaBoltDamage": 7500,
-      "goldCost": 65,
+      "goldCost": 100,
       "baseMeleeDamage": 150,
       "meleeDamageVs": {
         "European swordsman": 125,
@@ -96,7 +96,7 @@
     },
     "European pikeman": {
       "health": 75000,
-      "goldCost": 25,
+      "goldCost": 15,
       "arrowDamage": 2000,
       "xbowDamage": 2500,
       "stoneDamage": 1000,
@@ -118,7 +118,7 @@
       "fortificationDamagePenalty": 0
     },
     "Arabian slinger": {
-      "goldCost": 5,
+      "goldCost": 15,
       "health": 10000,
       "arrowDamage": 1500,
       "xbowDamage": 3000,
@@ -131,7 +131,7 @@
     },
     "Arabian horse archer": {
       "goldCost": 100,
-      "health": 25000,
+      "health": 30000,
       "arrowDamage": 5000,
       "xbowDamage": 12500,
       "stoneDamage": 5000,
@@ -146,7 +146,7 @@
       "fortificationDamagePenalty": -5
     },
     "European spearman": {
-      "goldCost": 15,
+      "goldCost": 10,
       "health": 15000,
       "arrowDamage": 2500,
       "xbowDamage": 3250,
@@ -203,6 +203,7 @@
     },
     "European swordsman": {
       "health": 25000,
+      "goldCost": 25,
       "ballistaBoltDamage": 7500,
       "xbowDamage": 1500,
       "arrowDamage": 225,
@@ -232,7 +233,7 @@
       "buildingDamage": 15,
       "wallDamage": 1,
       "fortificationDamagePenalty": -10,
-      "goldCost": 10,
+      "goldCost": 5,
       "ballistaBoltDamage": 10000,
       "meleeDamageVs": {
         "Tunneler": 100,
@@ -410,7 +411,8 @@
       "baseMeleeDamage": 150,
       "meleeDamageVs": {
         "Arabian slave": 150,
-        "Arabian slinger": 150
+        "Arabian slinger": 150,
+        "Arabian assassin": 75
       }
     }
   },
@@ -585,27 +587,26 @@
   "fear_factor": {
     "popularity_per_bad_level": 25,
     "popularity_per_good_level": 25,
-    "productivity": [150, 140, 130, 120, 110, 100, 95, 90, 85, 80, 75],
     "combat_bonus": [75, 80, 85, 90, 95, 100, 110, 120, 130, 140, 150],
     "coverage": 5
   },
   "food": {
     "ration_bonuses": [-250, -125, 125, 250],
     "variety_bonuses": [50, 100, 125],
-    "food_value": 12500
+    "food_value": 10000
   },
   "population_gathering_rate": {
     "Skirmish": {
-      "0": -100,
-      "5": -90,
-      "10": -80,
-      "15": -70,
-      "20": -60,
-      "25": -50,
-      "30": -40,
-      "35": -30,
-      "40": -20,
-      "45": -10,
+      "0": -150,
+      "5": -135,
+      "10": -120,
+      "15": -105,
+      "20": -90,
+      "25": -75,
+      "30": -60,
+      "35": -45,
+      "40": -30,
+      "45": -15,
       "50": 0,
       "55": 5,
       "60": 10,
