@@ -2,11 +2,11 @@
   "$schema": "config_schema.json",
   "units": {
     "Dog": {
-      "health": 15000,
-      "arrowDamage": 2500,
-      "xbowDamage": 5000,
-      "stoneDamage": 1000,
-      "baseMeleeDamage": 50,
+      "health": 50000,
+      "arrowDamage": 5000,
+      "xbowDamage": 10000,
+      "stoneDamage": 2500,
+      "baseMeleeDamage": 100,
       "speedLevel": 1
     },
     "Hunter dog": {
@@ -449,8 +449,8 @@
       "cost": [0, 0, 0, 0, 10]
     },
     "Dog cage": {
-      "health": 500,
-      "cost": [10, 0, 0, 0, 25]
+      "health": 750,
+      "cost": [5, 0, 0, 0, 95]
     },
     "Pitch rig": {
       "cost": [10, 0, 0, 0, 0]
@@ -622,7 +622,7 @@
   },
   "taxation": {
     "popularity": [450, 300, 150, 0, -75, -150, -225, -300, -375, -450, -525, -600],
-    "gold": ["0.75", "0.50", "0.25", "0.00", "0.25", "0.50", "0.75", "1.00", "1.25", "1.50", "2.00", "2.25"]
+    "gold": ["0.50", "0.35", "0.20", "0.00", "0.10", "0.25", "0.45", "0.70", "1.00", "1.35", "1.75", "2.20"]
   },
   "resources": {
     "Spear": {
