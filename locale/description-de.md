@@ -1,7 +1,7 @@
 # Fiery Ladies AI package
 
 Some may know me from being active years ago in the Stronghold Crusader modding scene and as a member of the UCP development team - or for my love of Fire.
-Out of that love over time I created with huge help from other members of the Community (Krarilotus, Hacksülze, Monsterfish and others) quite a few AIs that satisfy my need to see things burn. The **"Fiery Ladies"** mod pack was born!
+Out of that love over time I created with huge help from other members of the Community (Krarilotus, Hacksuelze, Monsterfish, Udwin and others) quite a few AIs that satisfy my need to see things burn. The **"Fiery Ladies"** mod pack was born!
 Here's a quick description of the characters I added so far:
 
 ### Firelord Azula
@@ -32,3 +32,11 @@ If you have questions or want to report bugs, text me on discord (Kimberly Azula
 
 Thanks for trying out or playing with my AIs.
 ~Kimberly Azula
+
+
+Additional info to the mentioned helpers:
+Krarilotus: Helped me with aic stuff and made the incredible effective prime castle for the main character of this pack: Azula
+Monsterfish: Created most of the castles for the characters (besides the afore mentioned one for Azula and Luna's) and helped me with design by offering his opinion
+Hacksuelze and xCara: Helped me with the portraits and animated short videos (binks) for the characters.
+Udwin: Recorded short videos for youtube to show off this package in its version 0.5.1.
+Others: Thanks to all who gave me feedback in a proper way.

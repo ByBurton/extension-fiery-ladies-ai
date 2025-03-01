@@ -94,8 +94,8 @@ config-sparse:
         o_firecooldown:
           contents:
             suggested-value:
-              enabled: false
-              sliderValue: 2000
+              enabled: true
+              sliderValue: 3000
         ai_recruitstate_initialtimer:
           contents:
             suggested-value:
