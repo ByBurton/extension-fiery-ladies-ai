@@ -599,7 +599,7 @@
   "food": {
     "ration_bonuses": [-250, -125, 125, 250],
     "variety_bonuses": [50, 100, 125],
-    "food_value": 10000
+    "food_value": 13500
   },
   "population_gathering_rate": {
     "Skirmish": {
