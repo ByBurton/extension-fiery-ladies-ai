@@ -97,7 +97,7 @@
     "European pikeman": {
       "health": 75000,
       "goldCost": 15,
-      "arrowDamage": 2000,
+      "arrowDamage": 1500,
       "xbowDamage": 2500,
       "stoneDamage": 1000,
       "ballistaBoltDamage": 25000,
@@ -637,7 +637,7 @@
       "sell": 75
     },
     "Bow": {
-      "baseDelivery": 3,
+      "baseDelivery": 2,
       "buy": 200,
       "sell": 100
     },
