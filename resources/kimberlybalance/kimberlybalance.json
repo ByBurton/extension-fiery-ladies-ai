@@ -120,9 +120,9 @@
     "Arabian slinger": {
       "goldCost": 15,
       "health": 10000,
-      "arrowDamage": 1500,
+      "arrowDamage": 1250,
       "xbowDamage": 3000,
-      "stoneDamage": 3000,
+      "stoneDamage": 1500,
       "baseMeleeDamage": 25,
       "meleeDamageVs": {
         "Trebuchet": 25,
@@ -183,10 +183,11 @@
         "Arabian horse archer": 150,
         "European knight": 50,
         "European swordsman": 50,
-        "Arabian swordsman": 25,
+        "Arabian swordsman": 50,
+        "European spearman": 150,
         "European pikeman": 125,
-        "Lord": 10,
-        "Arabian assassin": 60,
+        "Lord": 50,
+        "Arabian assassin": 75,
         "Lady": 0
       },
       "wallDamage": 15,
@@ -202,7 +203,7 @@
       "ballistaBoltDamage": 7500
     },
     "European swordsman": {
-      "health": 25000,
+      "health": 27500,
       "goldCost": 25,
       "ballistaBoltDamage": 7500,
       "xbowDamage": 1500,
